@@ -1,12 +1,12 @@
 const config = {
-  title: "Naresh Khatri | Full-Stack Developer",
+  title: "Farouk Jjingo | Full-Stack Developer",
   description: {
     long: "Explore the portfolio of Naresh, a full-stack developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Discover my latest work, including Coding Ducks, The Booking Desk, Ghostchat, and more. Let's build something amazing together!",
     short:
       "Discover the portfolio of Naresh, a full-stack developer creating interactive web experiences and innovative projects.",
   },
   keywords: [
-    "Naresh",
+    "Farouk",
     "portfolio",
     "full-stack developer",
     "creative technologist",
@@ -23,19 +23,19 @@ const config = {
     "Spline",
     "Framer Motion",
   ],
-  author: "Naresh Khatri",
-  email: "naresh.khatri2345@gmail.com",
-  site: "https://nareshkhatri.site",
+  author: "Farouk Jjingo",
+  email: "jjingofaroukk@gmail.com",
+  site: "https://jjingofarouk.xyz",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
-    instagram: "https://www.instagram.com/hotchaddi",
-    facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    twitter: "https://x.com/farouq_jjingo",
+    linkedin: "https://www.linkedin.com/in/farouq_jjingo/",
+    instagram: "https://www.instagram.com/farouqjjingo",
+    facebook: "https://www.facebook.com/farouqjjingo/",
+    github: "https://github.com/jjingofarouk",
   },
 };
 export { config };
